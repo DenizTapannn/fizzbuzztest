@@ -1,0 +1,7 @@
+1den 100e kadar sayılalan ve aldığı sayı
+1. 3e bölünüyorsa String olarak "Fuzz"
+2. 5e bölünüyorsa String olarak "Buzz"
+3. Hem 3e hem 5e bölünüyorsa Stirng olarak "FuzzBuzz"
+4. Hem 3e hem 5e bölünmüyorsa sayının kendisini
+5. 1den küçük veya 100den büyük bir sayı geldiğinde de IllegaalArgumentException
+dönen bir program yazalım.
